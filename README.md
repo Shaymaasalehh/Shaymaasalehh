@@ -1,4 +1,6 @@
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaymaasalehh&label=Profile%20views&color=0e75b6&style=flat" alt="shaymaasalehh" /> </p>
+
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -39,6 +41,22 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+
+
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaymaasalehh&show_icons=true&locale=en&layout=compact" alt="shaymaasalehh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaymaasalehh&show_icons=true&locale=en" alt="shaymaasalehh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaymaasalehh&" alt="shaymaasalehh" /></p>
+
 
 
 
